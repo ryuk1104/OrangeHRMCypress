@@ -1,0 +1,20 @@
+{
+  "name": "firstcypress",
+  "version": "1.0.0",
+  "description": "Test Omnia",
+  "keywords": [
+    "automatizacion",
+    "cyoress",
+    "omnia"
+  ],
+  "license": "ISC",
+  "author": "fvaldez",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "cypress": "^16.1.0"
+  }
+}
