@@ -14,5 +14,6 @@ Clona este repositorio e instala las dependencias necesarias:
 git clone <https://github.com/ryuk1104/OrangeHRMCypress.git>
 cd OrangeHRMCypress
 npm install
+npx cypress open 
 
 by Fracisco Valdez...
